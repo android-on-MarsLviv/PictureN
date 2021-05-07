@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PictureN</string>
+    <string name="edit_text_hint">Type picture name</string>
+    <string name="button_title">Take Picture</string>
+    <string name="default_name_prefix">PictureN</string>
+    <string name="message_on_failed_capture">Failed take the picture</string>
+    <string name="message_on_failed_save">Failed save the picture</string>
+</resources>
